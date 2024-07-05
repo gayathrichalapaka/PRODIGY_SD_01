@@ -12,3 +12,24 @@ This Python program converts temperatures between Celsius, Fahrenheit, and Kelvi
 
 2.Run the program using Python:
 
+```python temperature_conversion.py```
+
+3.Input the temperature value when prompted:
+
+```Enter the temperature value: 25```
+
+4.Input the unit of the temperature (C, F, K) when prompted:
+
+```Enter the unit of the temperature (C, F, K): C```
+
+5.The program will output the temperature converted to the other two units:
+
+```25°C is 77.00°F and 298.15K```
+# Example
+If the user enters a temperature of ```25``` degrees Celsius:
+
+```
+   Enter the temperature value: 25
+   Enter the unit of the temperature (C, F, K): C
+   25°C is 77.00°F and 298.15K
+```
