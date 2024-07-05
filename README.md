@@ -1,5 +1,4 @@
 # Prodigy-internship-projects
-
 This Python program converts temperatures between Celsius, Fahrenheit, and Kelvin scales. The user inputs a temperature value and the original unit of measurement, and the program converts the temperature to the other two units and displays the results.
 # Features
 1.Convert from Celsius to Fahrenheit and Kelvin
